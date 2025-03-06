@@ -78,6 +78,6 @@ sensor_failure_detection
 훈련 모델 실행 (예시)
 
 ```
-tools/dist_train.sh projects/configs/moad_voxel0100_r50_800x320_cbgs.py  4
+bash tools/dist_train.sh configs/OccFusion_semanticKITTI.py  1 --amp  4
 
 ```
