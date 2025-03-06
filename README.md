@@ -69,8 +69,8 @@ sensor_failure_detection
 |  └─ 1.pth.tar
 |  └─ 2.pth.tar
 
-├─ figures
-├─ projects
+├─ data
+├─ occfusion
 └─ tools
 ```
 
