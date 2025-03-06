@@ -61,7 +61,7 @@ wget https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_
 
 0.pth.tar, 1.pth.tar, 2.pth.tar 의 경우 15번 서버 /media/spalab/sdb/dhkim/OCCFusion/ckpt/0.pth.tar 에 존재함
 ```
-
+```
 sensor_failure_detection
 ├─ ckpt
 │  ├─r101_dcn_fcos3d_pretrain.pth
